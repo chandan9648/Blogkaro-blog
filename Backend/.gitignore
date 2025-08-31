@@ -1,1 +1,8 @@
+# Node and editor
+node_modules/
+.DS_Store
+*.log
+
+# Vite build cache (frontend)
+Frontend/.vite/
 .env
